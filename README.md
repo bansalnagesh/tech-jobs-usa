@@ -60,6 +60,9 @@ A curated list of the best tech jobs across the United States, updated daily.
 | CENTEGIX | Software Engineer - Frontend/Web | 🌐 Remote | Apr 10 | [Apply](https://starjobs.dev/jobs/9760a8fb2b2645e9acd8b6549436a43f?utm=github) |
 | Scribd, Inc. | Software Engineer II (Frontend/Full stack) | 🌐 Remote | Apr 10 | [Apply](https://starjobs.dev/jobs/9acbc778907647a68774811fe78f7892?utm=github) |
 | Balyasny Asset Management L.P. | Quantitative Developer - Monetization | 📍 New York, NY | Apr 10 | [Apply](https://starjobs.dev/jobs/d598f4f10d2f4c3997f9495f0ed64740?utm=github) |
+| Accelerant | Full Stack Software Engineer | 🌐 Remote | Apr 10 | [Apply](https://starjobs.dev/jobs/6fb8068273e246a3974a3e698851cdde?utm=github) |
+| Metric Geo | Electrical Project Engineer | 📍 New York, United States | Apr 10 | [Apply](https://starjobs.dev/jobs/c2daad3ac5fa4b9b98e134d6808f500e?utm=github) |
+| G2i Inc. | Front End Software Engineer for Training AI Data | 🌐 Remote | Apr 10 | [Apply](https://starjobs.dev/jobs/b519170530294d83adeede671971f8d3?utm=github) |
 
 
 ## About This List
@@ -72,9 +75,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
+* [Junior Tech Jobs](https://github.com/bansalnagesh/junior-tech-jobs)
+* [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
+* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
 * [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
-* [Awesome Backend Jobs](https://github.com/bansalnagesh/awesome-backend-jobs)
-* [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
-* [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
-* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
+* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
 * [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
