@@ -6,25 +6,25 @@ A curated list of the best tech jobs across the United States, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-16*
+*Updated on 2025-04-19*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| American Bath Group | Continuous Improvement Manager | 📍 United States | Apr 16 | [Apply](https://starjobs.dev/jobs/dd86aa5f127343b99002f7f14327c09f?utm=github) |
-| AppCard, Inc. | Customer Success Manager | 📍 New York, NY | Apr 16 | [Apply](https://starjobs.dev/jobs/f1aa98e4050447caa4bf2a29a4cdf6b7?utm=github) |
-| The Port Authority of New York & New Jersey | Program Director, Strategic Planning | 📍 New York, NY | Apr 16 | [Apply](https://starjobs.dev/jobs/30c195ce616a4b94b4cdf0e119dea300?utm=github) |
-| Goldman Sachs | Global Markets - Global Currency & Emerging Markets Strat, New York, NY | 📍 New York, NY | Apr 16 | [Apply](https://starjobs.dev/jobs/55db2075254e4e399d22760a90dbb2a9?utm=github) |
-| Parfums Christian Dior | Assistant Manager, E-Merchandising | 📍 New York, NY | Apr 16 | [Apply](https://starjobs.dev/jobs/4a8cd1f93c704d00aa9512aa3e124e64?utm=github) |
-| Virtustant | Junior Web Developer | 📍 Latin America | Apr 16 | [Apply](https://starjobs.dev/jobs/6e6a1b5484ff4b97a22966d43a93a6e8?utm=github) |
-| Hammerspace | Software Developer | 📍 United States | Apr 16 | [Apply](https://starjobs.dev/jobs/436d02999087479290a9eae0607c6a78?utm=github) |
-| Mondrian Alpha | Financials Equity Analyst - Multi-Billion Dollar Hedge Fund | 📍 New York, United States | Apr 16 | [Apply](https://starjobs.dev/jobs/9d900004dd914a9bb21039c64279b1c4?utm=github) |
-| Assembled | Employee Experience Coordinator 💰 | 📍 San Francisco, CA | Apr 16 | [Apply](https://starjobs.dev/jobs/39ce57555c9a40d18bf22094ebfdba81?utm=github) |
-| Naderi Engineering, Inc. | Medical Device Engineer | 📍 South San Francisco, CA | Apr 16 | [Apply](https://starjobs.dev/jobs/f6f2bad5a1a244c281371e2d2705bd92?utm=github) |
-| Consultant Specialists, Inc. (CSI) | Software Engineer | 📍 South San Francisco, CA | Apr 16 | [Apply](https://starjobs.dev/jobs/948880c21105406ebd5a0dc598e2b1b8?utm=github) |
-| Ren | Data and Reporting Engineer II | 📍 United States | Apr 16 | [Apply](https://starjobs.dev/jobs/a921906678884c9f9a077538d9b9d24d?utm=github) |
-| Insight Global | Data Engineer 💰 | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/b500ffbc48794d5889296e2072079198?utm=github) |
-| knowmad mood | Data Engineer (freelance) | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/0cdb323ca1074db2b357afe06ed286c5?utm=github) |
-| SPECTRAFORCE | Data Analyst | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/dff87087a6a14a77ba863ad556771803?utm=github) |
+| Bestow | Manager, Security Governance | 🌐 Remote | Apr 18 | [Apply](https://starjobs.dev/jobs/e2af3b1dd78246bfb0cc866e9fbd247e?utm=github) |
+| Bestow | Engineering Director | 🌐 Remote | Apr 18 | [Apply](https://starjobs.dev/jobs/d32f381c24ec4bf6b197ae9725b2e226?utm=github) |
+| Bestow | Senior Product Manager - Identity Access Management (IAM) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/e9729f49d90e4d3f8f0659b00e044368?utm=github) |
+| Company | Position | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/91899019dea246a698ae497aba066663?utm=github) |
+| Deel | Benefits Specialist, PEO \| US | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/b1de2b66d152406bbe78f1b71cc19dc3?utm=github) |
+| Company | Position | 📍 San Francisco, CA | Apr 17 | [Apply](https://starjobs.dev/jobs/3e1119484f84473b83cf5b3a3df568a0?utm=github) |
+| Deel | Reconciliation Specialist, PEO | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/cb29c33c19d94feb825a1f84399a6784?utm=github) |
+| Deel | Manager, Benefits Implementation, PEO | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/6d45bab42325447fa0abaab4091d4adc?utm=github) |
+| Ford Motor Company | Senior Engineering Manager - Salesforce | 📍 United States | Apr 17 | [Apply](https://starjobs.dev/jobs/aa9ce4d45cb748c986ad1e68502e1a46?utm=github) |
+| Expert Executive Recruiters (EER Global) | Product & Project Manager  - (Industrial Piping) | 📍 United States | Apr 17 | [Apply](https://starjobs.dev/jobs/c56b6950a70a4c2081ef3bf67c36f437?utm=github) |
+| The Jacobson Group | ServiceNow Business Analyst/Product Owner | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/5a514fbbeabd4205bce1bb96064cc8de?utm=github) |
+| Perforce Software | Sr. Manager of Product Security | 📍 United States | Apr 17 | [Apply](https://starjobs.dev/jobs/4f87ed28b508495c929939d817f19237?utm=github) |
+| Solace | Product Manager | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/efa582e4fa744ae9a3062b5fb1481920?utm=github) |
+| Capital One | Senior Associate, Product Management - Enterprise Data | 📍 New York, NY | Apr 17 | [Apply](https://starjobs.dev/jobs/1978c0f9809a43ed9ed1f766089bede1?utm=github) |
+| Capital One | Senior Associate, Product Manager - Retail Bank | 📍 New York, NY | Apr 17 | [Apply](https://starjobs.dev/jobs/53ec940feac7452b992134643317177f?utm=github) |
 
 
 ## About This List
@@ -37,9 +37,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
+* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
 * [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
-* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
-* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
 * [Awesome Backend Jobs](https://github.com/bansalnagesh/awesome-backend-jobs)
-* [Awesome Remote Tech Jobs](https://github.com/bansalnagesh/awesome-remote-tech-jobs)
-* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
+* [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
+* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
+* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
