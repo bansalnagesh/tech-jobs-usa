@@ -6,25 +6,25 @@ A curated list of the best tech jobs across the United States, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-19*
+*Updated on 2025-04-21*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| Bestow | Manager, Security Governance | 🌐 Remote | Apr 18 | [Apply](https://starjobs.dev/jobs/e2af3b1dd78246bfb0cc866e9fbd247e?utm=github) |
-| Bestow | Engineering Director | 🌐 Remote | Apr 18 | [Apply](https://starjobs.dev/jobs/d32f381c24ec4bf6b197ae9725b2e226?utm=github) |
-| Bestow | Senior Product Manager - Identity Access Management (IAM) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/e9729f49d90e4d3f8f0659b00e044368?utm=github) |
-| Company | Position | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/91899019dea246a698ae497aba066663?utm=github) |
-| Deel | Benefits Specialist, PEO \| US | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/b1de2b66d152406bbe78f1b71cc19dc3?utm=github) |
-| Company | Position | 📍 San Francisco, CA | Apr 17 | [Apply](https://starjobs.dev/jobs/3e1119484f84473b83cf5b3a3df568a0?utm=github) |
-| Deel | Reconciliation Specialist, PEO | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/cb29c33c19d94feb825a1f84399a6784?utm=github) |
-| Deel | Manager, Benefits Implementation, PEO | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/6d45bab42325447fa0abaab4091d4adc?utm=github) |
-| Ford Motor Company | Senior Engineering Manager - Salesforce | 📍 United States | Apr 17 | [Apply](https://starjobs.dev/jobs/aa9ce4d45cb748c986ad1e68502e1a46?utm=github) |
-| Expert Executive Recruiters (EER Global) | Product & Project Manager  - (Industrial Piping) | 📍 United States | Apr 17 | [Apply](https://starjobs.dev/jobs/c56b6950a70a4c2081ef3bf67c36f437?utm=github) |
-| The Jacobson Group | ServiceNow Business Analyst/Product Owner | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/5a514fbbeabd4205bce1bb96064cc8de?utm=github) |
-| Perforce Software | Sr. Manager of Product Security | 📍 United States | Apr 17 | [Apply](https://starjobs.dev/jobs/4f87ed28b508495c929939d817f19237?utm=github) |
-| Solace | Product Manager | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/efa582e4fa744ae9a3062b5fb1481920?utm=github) |
-| Capital One | Senior Associate, Product Management - Enterprise Data | 📍 New York, NY | Apr 17 | [Apply](https://starjobs.dev/jobs/1978c0f9809a43ed9ed1f766089bede1?utm=github) |
-| Capital One | Senior Associate, Product Manager - Retail Bank | 📍 New York, NY | Apr 17 | [Apply](https://starjobs.dev/jobs/53ec940feac7452b992134643317177f?utm=github) |
+| Simbe | Commercial Analyst | 📍 United States | Apr 21 | [Apply](https://starjobs.dev/jobs/21c9d1831d6a448b809f89e66505a022?utm=github) |
+| Sompo | Data Analyst 💰 | 📍 New York, NY | Apr 21 | [Apply](https://starjobs.dev/jobs/162810df9d2e4d67a1ffb6291223529d?utm=github) |
+| Mondrian Alpha | Trading Operations Analyst – Prop Trading firm – 12 Month FTC - $150k | 📍 New York, United States | Apr 21 | [Apply](https://starjobs.dev/jobs/507d797881f445d89cb8b7e9afd51192?utm=github) |
+| Ford Motor Company | Cybersecurity In-Vehicle Engineer | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/00e59c9cfad348728800e59d70827ca2?utm=github) |
+| Cambrian | Sales Engineer | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/c77269782dc84e8380fdd886bdb02f49?utm=github) |
+| Ursus, Inc. | Process Engineer III | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/0cb487d53d7d4ab091f3159083732d1f?utm=github) |
+| Amazon | Cognos TM1 Application Developer, Global Financial Technologies | 📍 New York, United States | Apr 21 | [Apply](https://starjobs.dev/jobs/d825f955eeb644e7a5e4c13fdb93696f?utm=github) |
+| Rilla | Software Engineer | 📍 New York, NY | Apr 21 | [Apply](https://starjobs.dev/jobs/4c6931506c49445a940a8490ef81a968?utm=github) |
+| Wiraa | DevOps Engineer 💰 | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/ed7d65a2dc3747f0a47e06f5c5e2ab4b?utm=github) |
+| Wiraa | WordPress & React Developer | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/ce46581b581c49eca2603846425bfb4d?utm=github) |
+| Wiraa | Back End Developer (APIs) 💰 | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/09dbf1b4f82148bdaf9eae824c4f7197?utm=github) |
+| Upstart | Software Engineer, Product Led Growth | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/e11edb20cfb34a0c9fb6016b18002778?utm=github) |
+| G2i Inc. | Front End Software Engineer for Training AI Data | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/b519170530294d83adeede671971f8d3?utm=github) |
+| Softdocs | Software Engineer | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/161000acfe0b4c9fae2eab361f48561a?utm=github) |
+| Kaseya Careers | Communications & Change Management Analyst | 🌐 Remote | Apr 20 | [Apply](https://starjobs.dev/jobs/0f7e210fe014478fb9119cb33b5d608e?utm=github) |
 
 
 ## About This List
@@ -37,9 +37,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
-* [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
-* [Awesome Backend Jobs](https://github.com/bansalnagesh/awesome-backend-jobs)
-* [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
+* [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
+* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
 * [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
+* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
+* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
+* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
